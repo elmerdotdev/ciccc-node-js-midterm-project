@@ -10,7 +10,7 @@
 - The site must have login and signup
 - Use *bcrypt* to hash and verify the password [https://www.npmjs.com/package/bcrypt]
 - Use cookies to keep user information in the browser after they login. Clear the cookies when they log out
-- You can choose to build your frontend using EJS, React, or Next.js
+- You can choose to build your frontend/view using EJS, React, or Next.js
 
 ## Sample routes and requests for BREAD
 

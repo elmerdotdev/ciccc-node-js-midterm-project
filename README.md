@@ -4,7 +4,7 @@
 
 ## Instructions
 
-- You are free to create any type of site as long as it has CRUD/BREAD functionality and routes
+- You are free to create any type of site as long as it has CRUD/BREAD functionality and using MVC pattern
 - Keep the database in-memory or inside a *Model* (No external database)
 - You can use and modify an existing past project
 - The site must have login and signup

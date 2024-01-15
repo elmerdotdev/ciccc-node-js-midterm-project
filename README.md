@@ -6,7 +6,7 @@
 
 - You are free to create any type of site as long as it has CRUD/BREAD functionality and using MVC pattern
 - Keep the database in-memory or inside a *Model* (No external database)
-- You can use and modify an existing past project
+- You can use and modify a past project
 - The site must have login and signup
 - Use *bcrypt* to hash and verify the password [https://www.npmjs.com/package/bcrypt]
 - Use cookies to keep user information in the browser after they login. Clear the cookies when they log out

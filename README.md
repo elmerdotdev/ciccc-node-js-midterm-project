@@ -28,7 +28,7 @@ Individual presentation will be on January 22, 2024. During the presentation of 
 2. Login
 3. Add an item
 4. Show all items in a list
-5. View individual item
+5. View individual item (by clicking a button or link)
 6. Edit item
 7. Delete item
 8. Log out

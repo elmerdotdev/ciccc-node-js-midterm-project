@@ -25,6 +25,16 @@
 - **Register** `POST /users/register`
 - **Login** `POST /users/login`
 
+## Sample ideas
+
+- Online Store
+- Blog
+- To-Do App
+- Employee Management System
+- Music Player
+- Recipe App
+- Diary App
+
 ## Presentation
 
 Individual presentation will be on next Monday. During the presentation of your website, please follow this flow:

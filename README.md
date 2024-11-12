@@ -14,7 +14,7 @@
 - Create middleware so that BREAD routes can only be accessed if the user is authenticated or logged in.
 - You can choose to build your frontend/view using Astro, EJS, or another library such as React if you prefer.
 
-## Example routes and requests for BREAD
+## Example Routes and Requests for BREAD
 
 - **Browse:** `GET /posts`
 - **Read:** `GET /posts/1`
@@ -25,7 +25,7 @@
 - **Register** `POST /users/register`
 - **Login** `POST /users/login`
 
-## Sample ideas
+## Sample Ideas
 
 - Online Store
 - Blog

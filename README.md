@@ -32,6 +32,7 @@
 - To-Do App
 - Employee Management System
 - Music Player
+- Movies App
 - Recipe App
 - Diary App
 

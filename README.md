@@ -10,7 +10,7 @@
 - Use TypeScript.
 - Use `bcrypt` package to hash and verify the password [https://www.npmjs.com/package/bcrypt].
 - Use `uuid` package to generate unique ids.
-- Use cookies or JWT (or both) to keep user information in the browser after they login. Clear the cookies when they log out.
+- Use cookies to keep user information in the browser after they login. Clear the cookies when they log out.
 - Create middleware so that BREAD routes can only be accessed if the user is authenticated or logged in.
 - You can choose to build your frontend/view using Astro, EJS, or another library such as React if you prefer.
 

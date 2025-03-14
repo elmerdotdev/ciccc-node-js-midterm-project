@@ -10,14 +10,16 @@
 - Use TypeScript.
 - Use `bcrypt` package to hash and verify the password [https://www.npmjs.com/package/bcrypt].
 - Use `uuid` package to generate unique ids.
-- Use cookies to keep user information in the browser after they login. Clear the cookies when they log out.
-- Create middleware so that BREAD routes can only be accessed if the user is authenticated or logged in.
-- You can choose to build your frontend/view using Astro, EJS, or another library such as React if you prefer.
+- Use cookie session to keep user information in the browser after they login. Clear the cookies when they log out.
+- Create middleware so that BREAD routes are only accessible if the user is authenticated or logged in.
+- You can choose to build your frontend/view using Astro, EJS (not preferable), or another library such as React if you prefer.
+- Design your web application in Figma.
 
 ## Example Routes and Requests for BREAD
 
 - **Browse:** `GET /posts`
 - **Read:** `GET /posts/1`
+- **Search:** `GET /posts/search?q=keyword`
 - **Edit:** `PUT /posts/1`
 - **Add:** `POST /posts`
 - **Delete:** `DELETE /posts/1`
@@ -40,13 +42,15 @@
 
 Individual presentation will be on next Monday. During the presentation of your website, please follow this flow:
 
-1. Signup
-2. Login
-3. Add an item
-4. Show all items in a list
-5. View individual item (by clicking a button or link)
-6. Edit item
-7. Delete item
-8. Log out
+1. Show your Figma mockup design
+2. Signup
+3. Login
+4. Add an item
+5. Show all items in a list
+6. View individual item (by clicking a button or link)
+7. Search item by keyword
+8. Edit item
+9. Delete item
+10. Log out
 
-Good luck!
+Good luck! 🎉🎉🎉

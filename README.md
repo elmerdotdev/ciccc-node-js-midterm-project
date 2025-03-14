@@ -15,7 +15,7 @@
 - You can choose to build your frontend/view using Astro, EJS (not preferable), or another library such as React if you prefer.
 - Design your web application in Figma.
 
-### Example Routes and Requests for BREAD
+### Example Routes and Requests
 
 - **Browse:** `GET /posts`
 - **Read:** `GET /posts/1`

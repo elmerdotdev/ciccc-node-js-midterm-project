@@ -1,8 +1,8 @@
 # NodeJS - Midterm Project
 
-**Goal:** Create a site with BREAD (Browse, Read, Edit, Add, Delete) functionality using Node.js and Express as backend.
+**Goal:** Create a site with BREAD (Browse, Read, Edit, Add, Delete) functionality using Node.js and Express as backend and a frontend of your choice. A user must be able to register, login, display, add, edit, and delete items.
 
-## Instructions 
+## Instructions 📖
 
 - You are free to create any type of site as long as it has CRUD/BREAD functionality and using MVC pattern.
 - Keep the database in-memory or inside a model (No external database).
@@ -15,7 +15,7 @@
 - You can choose to build your frontend/view using Astro, EJS (not preferable), or another library such as React if you prefer.
 - Design your web application in Figma.
 
-## Example Routes and Requests for BREAD
+### Example Routes and Requests for BREAD
 
 - **Browse:** `GET /posts`
 - **Read:** `GET /posts/1`
@@ -27,7 +27,7 @@
 - **Register** `POST /users/register`
 - **Login** `POST /users/login`
 
-## Sample Ideas
+## Sample Ideas 💡
 
 - Online Store
 - Blog
@@ -38,7 +38,7 @@
 - Recipe App
 - Diary App
 
-## Presentation
+## Presentation 📽️
 
 Individual presentation will be on next Monday. During the presentation of your website, please follow this flow:
 
